@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akshaya-glitch
-- 👀 I’m interested in website development
-- 🌱 I’m currently learning android development
+- 👀 I’m interested in User Experience designing
+- 🌱 I’m currently learning Data Visualisation
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
